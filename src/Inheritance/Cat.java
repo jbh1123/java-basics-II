@@ -1,4 +1,4 @@
-package Inheritace;
+package Inheritance;
 
 public class Cat {
 
